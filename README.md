@@ -1,5 +1,7 @@
 # Resources
 
+Once I went through the practice files from Module 4, I had no issues getting the pizza cost, extra cheese and delivery code done. The thick crust took awhile for me to figure out how to apply that using the prompt response and lowercase/trim methods. Hands down, the toppings took me the longest. I originally had it set to read the toppingsArray.length, which kept making either all but one work or ruining the other prices. Once I changed it to simply toppings.length, I was able to pass that test.
+
 https://www.w3schools.com/js/default.asp
 
 https://www.webdeveloper.com/d/297613-how-to-store-prompt-inputs-in-an-array-and-then-print-that-data-out
