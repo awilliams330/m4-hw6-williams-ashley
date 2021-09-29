@@ -42,7 +42,7 @@ function getPizzaOrder() {
   // the number of toppings added to pizza.cost
   var toppingsArray = toppings.split(",")
 
-  if (toppingsArray.length > 1) {
+  if (toppingsArray.length > 0) {
     pizza.toppings = toppingsArray
     pizza.cost = pizza.cost + (toppingsArray.length * toppingsFee)
   } else {

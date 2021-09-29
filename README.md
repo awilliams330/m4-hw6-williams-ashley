@@ -1,3 +1,18 @@
+# Resources
+
+https://www.w3schools.com/js/default.asp
+
+https://www.webdeveloper.com/d/297613-how-to-store-prompt-inputs-in-an-array-and-then-print-that-data-out
+
+https://www.codecademy.com/forum_questions/520ac81bf10c6030ad000e07
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
+
+https://www.techonthenet.com/js/string_tolowercase.php
+
+https://stackoverflow.com/questions/33700457/trying-to-use-input-from-prompt-as-object-value-within-a-function
+
+
 # JavaScript Pizza
 
 ## Background
